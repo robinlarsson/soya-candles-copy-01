@@ -74,6 +74,7 @@ file_template: ":filename:"
 build:
   preview_env:
   - JEKYLL_ENV=staging
+  - HUGO_VERSION=0.70.0
   preview_output_directory: _site
   install_dependencies_command: bundle install --path vendor/bundle
   preview_docker_image: forestryio/hugo:latest
