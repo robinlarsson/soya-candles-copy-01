@@ -1,9 +1,7 @@
 ---
-title: Home
+title: Start
 isHome: true
 layout: index
+
 ---
-
-# Real, beautiful plants right to your door
-
- 
+# Riktigt härliga doftljus, direkt till din dörr
