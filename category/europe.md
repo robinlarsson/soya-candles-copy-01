@@ -1,9 +1,10 @@
 ---
-slug: europe
-title: Plants from Europe
+slug: soy-candles
+title: Soy Candles
 section: Store
-menus:
+layout: category
+menu:
   categories:
     weight: 5
-layout: category
+
 ---
