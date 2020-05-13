@@ -1,6 +1,6 @@
 ---
-slug: summer
-title: Summer plants
+slug: massage
+title: Massage
 section: Store
 layout: category
 menu:
