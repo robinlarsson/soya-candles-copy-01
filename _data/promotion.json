@@ -1,12 +1,12 @@
 {
-    "title": "A new home interior for summer",
-    "subtitle": "from $149.99",
-    "image": {
-        "optimized": "images/promo.webp",
-        "fallback": "images/promo.jpg"
-    },
-    "cta": {
-        "text": "Discover",
-        "link": "/store"
-    }
+  "title": "Ett nytt intryck i ditt hem till sommaren",
+  "subtitle": "från 150 SEK",
+  "image": {
+    "optimized": "/images/94734188_3355854431115340_1229743269643026432_o.jpg",
+    "fallback": "/images/94734188_3355854431115340_1229743269643026432_o.jpg"
+  },
+  "cta": {
+    "text": "Discover",
+    "link": "/store"
+  }
 }
