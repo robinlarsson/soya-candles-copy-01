@@ -11,9 +11,23 @@ sections:
   - config
 - type: document
   path: index.md
-  label: Home
+  label: Start
   templates:
   - index
+- type: directory
+  path: products
+  label: Product
+  create: all
+  match: "**/*"
+  templates:
+  - products
+- type: directory
+  path: category
+  label: Categories
+  create: all
+  match: "**/*"
+  templates:
+  - categories
 - type: directory
   path: ''
   label: Page
@@ -37,13 +51,6 @@ sections:
   label: About
   templates:
   - about
-- type: directory
-  path: category
-  label: Categories
-  create: all
-  match: "**/*"
-  templates:
-  - categories
 - type: document
   path: _data/promotion.json
   label: Promotion
@@ -54,13 +61,6 @@ sections:
   label: Testimonials
   templates:
   - testimonials
-- type: directory
-  path: products
-  label: Product
-  create: all
-  match: "**/*"
-  templates:
-  - products
 - type: document
   path: _data/menus.yml
   label: Site Menus
