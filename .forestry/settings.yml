@@ -76,7 +76,7 @@ build:
   - JEKYLL_ENV=staging
   - HUGO_VERSION=0.70.0
   preview_output_directory: _site
-  install_dependencies_command: gem install bundler:1.16.6
+  install_dependencies_command: bundle update --bundler
   preview_docker_image: forestryio/ruby:2.6
   mount_path: "/srv"
   working_dir: "/srv"
