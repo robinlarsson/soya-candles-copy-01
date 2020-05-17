@@ -26,6 +26,6 @@ fields:
   config:
     required: true
 pages:
-- category/massage.md
+- category/massages.md
 - category/scent.md
 - category/soy-candles.md
