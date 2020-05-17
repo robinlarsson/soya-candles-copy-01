@@ -1,5 +1,5 @@
 ---
-slug: massage
+slug: massages
 title: Massage
 section: Store
 layout: category
